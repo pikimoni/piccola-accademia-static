@@ -1,0 +1,11 @@
+title: PIKIMONI
+description: Онлайн-платформа для преподавания иностранных языков детям
+lang: ru-RU
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
