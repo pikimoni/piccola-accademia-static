@@ -4,22 +4,12 @@ title: Авторы и педагоги
 permalink: /about-authors/
 ---
 <section class="page-hero"><div class="wrap"><p class="eyebrow">Наша команда</p><h1>Авторы и педагоги</h1><p class="lead">Учи любя, учись играя!</p></div></section>
-<div class="content">
-## Валерия Николаевна Мещерякова
-Автор системы раннего обучения языкам I LOVE ENGLISH и пособий I Can Sing, I Can Speak, I Can Read, I Can Write, I Can Analyse.
-
-## Наталья Александровна Поддубная
-Преподаватель, методист и автор книг Clumsy and Gracie, Crowlie, Bonnie и Deus or Christmas Tale.
-
-## Маргарита Сергеевна Благушина
-Автор пособий для обучения взрослых разговорному английскому и тренер Методического центра I LOVE ENGLISH.
-
-## Ольга Николаевна Герасимова
-Автор курса английского языка для подростков.
-
-## Юлия Сергеевна Трофимова
-Автор серии J’AIME LE FRANÇAIS и основатель студии иностранных языков ADVENTURE.
-
-## Елена Сергеевна Нефедьева
-Автор Silly Stories for Starters и Stories for Movers, специалист по международным и российским экзаменам.
+<div class="content"><div class="team-grid author-grid">
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/valeria-meshcheryakova.jpg' | relative_url }}" alt="Валерия Мещерякова"><div><h2>Валерия Николаевна Мещерякова</h2><p class="team-role">Автор методики раннего обучения иностранным языкам</p><p>Автор системы I LOVE ENGLISH, пособий I Can Sing, I Can Speak, I Can Read, I Can Write, I Can Analyse и серии книг I Love Reading. Основатель образовательной платформы «Мир Говорит».</p><a href="https://vk.com/ilemirgovorit">VK</a></div></article>
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/natalia-poddubnaya.jpg' | relative_url }}" alt="Наталья Поддубная"><div><h2>Наталья Александровна Поддубная</h2><p class="team-role">Автор и методист</p><p>Преподаватель и автор детских книг и пособий на английском языке: Clumsy and Gracie, Crowlie, Bonnie, Deus or Christmas Tale. Автор лексико-грамматических игр и соавтор серии книг для детей с трудностями в обучении Clumsy. Dyslexia friendly.</p><a href="https://vk.com/poddubnaya1">VK</a></div></article>
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/margarita-blagushina.jpg' | relative_url }}" alt="Маргарита Благушина"><div><h2>Маргарита Сергеевна Благушина</h2><p class="team-role">Автор и педагог</p><p>Автор пособий по обучению взрослых разговорному английскому I can talk и I can communicate. Тренер Методического центра I LOVE ENGLISH.</p></div></article>
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/olga-gerasimova.jpg' | relative_url }}" alt="Ольга Герасимова"><div><h2>Ольга Николаевна Герасимова</h2><p class="team-role">Автор и педагог</p><p>Автор курса английского языка для подростков, педагог и руководитель курсов разговорного английского I LOVE ENGLISH.</p></div></article>
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/yulia-trofimova.jpg' | relative_url }}" alt="Юлия Трофимова"><div><h2>Юлия Сергеевна Трофимова</h2><p class="team-role">Автор и руководитель студии</p><p>Автор пособий по французскому языку J’AIME LE FRANÇAIS. Разработчик французского направления методики Мещеряковой и основатель студии иностранных языков ADVENTURE.</p></div></article>
+<article class="card team-card"><img class="team-portrait" src="{{ '/assets/images/authors/elena-nefedyeva.png' | relative_url }}" alt="Елена Нефедьева"><div><h2>Елена Сергеевна Нефедьева</h2><p class="team-role">Автор и педагог</p><p>Сертифицированный педагог I LOVE ENGLISH (учитель АС), автор пособий Silly Stories for Starters и Stories for Movers. Специализируется на международных и российских экзаменах; CELTA (Pass B), CAE.</p></div></article>
+</div>
 </div>
