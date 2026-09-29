@@ -22,7 +22,7 @@ jobs:
           working-directory: pikimoni.ru
       - uses: actions/configure-pages@v5
         id: pages
-      - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}/pikimoni.ru" --destination _site/pikimoni.ru
         working-directory: pikimoni.ru
       - uses: actions/upload-pages-artifact@v3
         with:
