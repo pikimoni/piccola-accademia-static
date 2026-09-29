@@ -19,12 +19,14 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
+          working-directory: pikimoni.ru
       - uses: actions/configure-pages@v5
         id: pages
       - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        working-directory: pikimoni.ru
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: ./pikimoni.ru/_site
   deploy:
     environment:
       name: github-pages
